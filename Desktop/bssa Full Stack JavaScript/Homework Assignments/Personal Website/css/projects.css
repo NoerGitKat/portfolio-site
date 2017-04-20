@@ -1,0 +1,12 @@
+.placeholder_img img {
+	height: 160px;
+	width: 280px;
+}
+
+main li {
+	list-style-type: none;
+	display: inline-block;
+	position: relative;
+	left: 10px;
+	margin: 10px 10px;
+}

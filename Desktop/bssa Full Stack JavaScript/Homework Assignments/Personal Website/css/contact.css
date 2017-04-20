@@ -1,0 +1,12 @@
+main img {
+	height: 50px;
+	width: 50px;
+	border-radius: 5px;
+	border: 1px solid white;
+}
+
+main li {
+	list-style-type: none;
+	margin: 0px 20px 0px 0px;
+	display: inline-block;
+}

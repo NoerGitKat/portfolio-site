@@ -1,0 +1,66 @@
+* {
+	font-family: Georgia, sans-serif;
+}
+
+body {
+	background-color: black;
+	color: #7ceae8;
+}
+
+h1 {
+	margin: 10px 0px;
+}
+
+p {
+	margin-top: 0px;
+}
+
+nav li {
+	font-family: Times, serif;
+	list-style-type: none;
+	float: right;
+	margin-top: 20px;
+	margin-right: 50px;
+	padding: 10px;
+	border: 1px solid grey;
+	border-radius: 10px;
+}
+
+nav li a {
+	text-decoration: none;
+	color: #7ceae8;
+}
+
+nav li a:hover {
+	color: white;
+}
+
+.cover {
+	background: url("../img/mountains-wallpaper.jpg");
+	width: 1300px;
+	height: 500px;
+	background-size: cover;
+	background-position: center;
+	margin: 0 auto;
+	border-radius: 10px;
+
+}
+
+main {
+	width: 1100px;
+	margin: 0 auto;
+	margin-top: 10px;
+	padding: 0px 20px;
+	border: 1px solid grey;
+	background: rgba(20, 20, 20, 0.5);
+	border-radius: 5px;
+}
+
+footer {
+	font-size: 12px;
+	text-align: center;
+}
+
+footer p {
+	margin: 10px;
+}
