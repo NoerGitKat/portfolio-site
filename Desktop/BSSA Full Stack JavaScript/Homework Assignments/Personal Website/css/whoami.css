@@ -1,0 +1,10 @@
+img {
+	position: relative;
+	top: 30px;
+	margin: 5px;
+	float: right;
+	height: 200px;
+	width: 180px;
+	border: 10px solid black;
+	border-radius: 100px;
+}
