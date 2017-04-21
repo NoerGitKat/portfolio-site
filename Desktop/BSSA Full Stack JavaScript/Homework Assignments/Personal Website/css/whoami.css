@@ -1,4 +1,6 @@
-img {
+/* css just for the profile picture */
+
+img.profile {
 	position: relative;
 	top: 30px;
 	margin: 5px;
